@@ -34,7 +34,7 @@
         <!-- #page-title end -->
 
         <!-- Headline Section -->
-        <section>
+        <section class="bg-dark">
             <div class="container imprint">
                 <div class="row">
                     <div class="col-md-12">

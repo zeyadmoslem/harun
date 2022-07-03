@@ -5968,6 +5968,14 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 	padding-bottom: 10px;
 }
 
+/* Custom, iPhone Retina */
+@media only screen and (min-width: 767px) {
+	.slider .slide--bio span::after {
+		content: ' ' ;
+		white-space: normal;
+		}
+}
+
 /* Slider Small */
 .slider-small {
 	height: 600px;

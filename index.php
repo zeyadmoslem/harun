@@ -45,7 +45,7 @@
                                 data-frames='[{"delay":1250,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                                 data-splitin="none" data-splitout="none" data-responsive_offset="on">
                                 <div class="slide--bio text-center">Döner By Harun ist eines der ersten Restaurants in
-                                  Karben, das Türkische Grichte und Döner serviert. Das Restaurant wurde mit
+                                  Karben, das Türkische Grichte und Döner serviert. <span></span> Das Restaurant wurde mit
                                     Blick auf die türkische Küche entworfen.
                                 </div>
                             </div>
