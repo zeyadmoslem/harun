@@ -32,7 +32,7 @@
                             </div>
 
                             <!-- LAYER NR. 2 -->
-                            <div class="tp-caption" data-x="center" data-hoffset="0" data-y="center" data-voffset="30"
+                            <div class="tp-caption top-sm--30" data-x="center" data-hoffset="0" data-y="center" data-voffset="30"
                                 data-whitespace="nowrap" data-width="none" data-height="none"
                                 data-frames='[{"delay":1000,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                                 data-splitout="none" data-responsive_offset="on">
@@ -40,18 +40,18 @@
                             </div>
 
                             <!-- LAYER NR. 3 -->
-                            <div class="tp-caption" data-x="center" data-hoffset="0" data-y="center" data-voffset="90"
+                            <div class="tp-caption top-sm--40" data-x="center" data-hoffset="0" data-y="center" data-voffset="90"
                                 data-width="none" data-height="none"
                                 data-frames='[{"delay":1250,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                                 data-splitin="none" data-splitout="none" data-responsive_offset="on">
                                 <div class="slide--bio text-center">Döner By Harun ist eines der ersten Restaurants in
-                                  Groß karben, das Türkische Grichte und Döner<br>serviert. Das Restaurant wurde mit
+                                  Karben, das Türkische Grichte und Döner serviert. Das Restaurant wurde mit
                                     Blick auf die türkische Küche entworfen.
                                 </div>
                             </div>
 
                             <!-- LAYER NR. 4 -->
-                            <div class="tp-caption" data-x="center" data-hoffset="0" data-y="center" data-voffset="175"
+                            <div class="tp-caption top-sm--50" data-x="center" data-hoffset="0" data-y="center" data-voffset="175"
                                 data-width="none" data-height="none" data-whitespace="nowrap"
                                 data-frames='[{"delay":1500,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                 data-splitin="none" data-splitout="none"
@@ -68,14 +68,14 @@
                         <li data-transition="parallaxvertical" data-slotamount="default" data-easein="Power4.easeInOut"
                             data-easeout="Power4.easeInOut" data-masterspeed="1500">
                             <!-- MAIN IMAGE -->
-                            <img src="assets/images/sliders/slide-bg/sss.avif" alt="Slide Background Image" width="1920"
+                            <img src="assets/images/sliders/slide-bg/ssss.jpg" alt="Slide Background Image" width="1920"
                                 height="1280">
                             <!-- LAYER NR. 1 -->
                             <div class="tp-caption" data-x="center" data-hoffset="0" data-y="center" data-voffset="-65"
                                 data-whitespace="nowrap" data-width="none" data-height="none"
                                 data-frames='[{"delay":750,"speed":1500,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                 data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                <div class="slide--subheadline">Real Cooking, Delicious Food</div>
+                                <div class="slide--subheadline">Echtes Geschmack, leckeres Essen</div>
                             </div>
 
                             <!-- LAYER NR. 2 -->
@@ -83,58 +83,13 @@
                                 data-whitespace="nowrap" data-width="none" data-height="none"
                                 data-frames='[{"delay":1000,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                                 data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                <div class="slide--headline">Passion For The Perfect Taste</div>
+                                <div class="slide--headline">Leidenschaft für den perfekten Geschmack</div>
                             </div>
 
                             <!-- LAYER NR. 3 -->
                             <div class="tp-caption" data-x="center" data-hoffset="0" data-y="center" data-voffset="100"
                                 data-width="none" data-height="none" data-whitespace="nowrap"
                                 data-frames='[{"delay":1250,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                data-splitin="none" data-splitout="none"
-                                data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-164","delay":""}]'
-                                data-basealign="slide" data-responsive_offset="on" data-responsive="off">
-                                <div class="slide-action">
-                                    <a class="btn btn--secondary" href="#">Uners Menü</a>
-                                </div>
-                            </div>
-                        </li>
-
-                        <!-- slide 3 -->
-                        <li data-transition="boxfade" data-slotamount="default" data-easein="Power4.easeInOut"
-                            data-easeout="Power4.easeInOut" data-masterspeed="1500">
-                            <!-- MAIN IMAGE -->
-                            <img src="assets/images/sliders/slide-bg/ssss.jpg" alt="Slide Background Image" width="1920"
-                                height="1280">
-                            <!-- LAYER NR. 1 -->
-                            <div class="tp-caption" data-x="center" data-hoffset="0" data-y="center" data-voffset="-130"
-                                data-whitespace="nowrap" data-width="none" data-height="none"
-                                data-frames='[{"delay":750,"speed":1500,"frame":"0","from":"x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
-                                data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                <div class="slide--subheadline">Made With Love</div>
-                            </div>
-
-                            <!-- LAYER NR. 2 -->
-                            <div class="tp-caption" data-x="center" data-hoffset="0" data-y="center" data-voffset="-65"
-                                data-whitespace="nowrap" data-width="none" data-height="none"
-                                data-frames='[{"delay":1000,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                <div class="slide--headline">Fresh Ingredient, Tasty Meals</div>
-                            </div>
-
-                            <!-- LAYER NR. 3 -->
-                            <div class="tp-caption" data-x="center" data-hoffset="0" data-y="center" data-voffset="20"
-                                data-width="none" data-height="none"
-                                data-frames='[{"delay":1250,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                <div class="slide--bio text-center">Granny is a restaurant, bar and coffee roastery
-                                    located on Egypt. We have<br>awesome recipes and the most talented chefs in town!
-                                </div>
-                            </div>
-
-                            <!-- LAYER NR. 4 -->
-                            <div class="tp-caption" data-x="center" data-hoffset="0" data-y="center" data-voffset="100"
-                                data-width="none" data-height="none" data-whitespace="nowrap"
-                                data-frames='[{"delay":1500,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"x:50px;opacity:0;","ease":"Power3.easeInOut"}]'
                                 data-splitin="none" data-splitout="none"
                                 data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-164","delay":""}]'
                                 data-basealign="slide" data-responsive_offset="on" data-responsive="off">
@@ -152,15 +107,15 @@
         </section>
         <!-- Columns Section
 ============================================= -->
-        <section id="banner7" class="banner banner-7 text-center pb-30">
+        <section id="banner7" class="banner banner-7 text-center pb-30 bg-dark">
             <div class="container">
                 <div class="row clearfix">
                     <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
                         <div class="heading heading-1 mb-50 text--center">
                             <p class="heading--subtitle">Willkommen bei</p>
-                            <h2 class="heading--title mb-0">Döner By Harun </h2>
+                            <h2 class="heading--title mb-0 text-white">Döner By Harun </h2>
                             <div class="divider--shape-4"></div>
-                            <p class="heading--desc">Döner By Harun ist eines der ersten Restaurants in Groß karben, das
+                            <p class="heading--desc">Döner By Harun ist eines der ersten Restaurants in Karben, das
                                 Türkische Grichte und Döner serviert. Das Restaurant wurde mit Blick auf die türkische
                                 Küche entworfen.</p>
                         </div>
@@ -227,13 +182,13 @@
         </section>
         <!-- #banner7 end -->
         <!-- Menu Grid  -->
-        <section id="menuGrid" class="bg-white">
+        <section id="menuGrid" class="bg-dark">
             <div class="container">
                 <div class="row clearfix">
                     <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
                         <div class="heading heading-1 mb-50 text--center">
                             <p class="heading--subtitle">Schmecken am besten</p>
-                            <h2 class="heading--title mb-0">Frische Zutaten, leckere Mahlzeiten</h2>
+                            <h2 class="heading--title mb-0 text-white">Frische Zutaten, leckere Mahlzeiten</h2>
                             <div class="divider--shape-4"></div>
                             <p class="heading--desc">Jeder hat Geschmack, auch wenn er es nicht merkt. Auch wenn Sie
                                 kein großer Koch sind, hindert Sie nichts daran, den Unterschied zwischen dem, was gut
@@ -252,7 +207,7 @@
                             <?php
                                  $i = 0;
                                 foreach ($menu_item_array as $key => $value ) { ?>
-                                    <li class=" <?php if($i == 0){echo 'active';} ?> " ><a href="#<?= slug($key)?>" data-toggle="tab"><?= $key?></a></li>
+                                    <li class=" <?php if($i == 0){echo 'active';} ?> " ><a class="text-white" href="#<?= slug($key)?>" data-toggle="tab"><?= $key?></a></li>
                                
                             <?php  $i++; } ?>
                         </ul>
@@ -264,7 +219,7 @@
                                 foreach ($menu_item_array as $key => $value ) { ?>
                                 <div class="tab-pane fade in  <?php if($i == 0){echo 'active';} ?>" id="<?= slug($key)?>">
 
-                                <section id="" class="section section-divider menu menu-1 mtop-100 pt-0 pb-0 bg-white">
+                                <section id="" class="section section-divider menu menu-1 mtop-100 pt-0 pb-0 bg-dark">
                                     <div class="container-fluid">
                                         <div class="row ">
                                             <div class="col-xs-12 col-sm-12 col-md-6 pr-0 pl-0 d-none d-md-block" style="height:550px ;">
@@ -301,7 +256,7 @@
                                                     <?php
                                                     foreach ($value as $item => $item_value) { ?>
                                                     <div class="dish-panel">
-                                                        <h3 class="dish--title"><?= $item?>
+                                                        <h3 class="dish--title text-white"><?= $item?>
                                                         <span class="dish--stof"><?= $item_value['stof']?></span>
                                                         </h3>
                                                         <span class="dish--price"><?= $item_value['price']?> €</span>
@@ -356,7 +311,7 @@
                 <!-- .row end -->
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1">
-                        <div class="reservation-form box-shadow mb-30 bg-white text-center">
+                        <div class="reservation-form box-shadow mb-30 bg-dark text-center">
 
                             <form method="post" action="assets/php/reservation.php" class="reservationForm mb-0">
                                 <div class="row">
@@ -401,10 +356,10 @@
         <!-- #reservation1 end -->
 
         <!-- Testimonial #3 -->
-        <section id="testimonial3" class="testimonial testimonial-3 text-center pt-80 pb-80">
+        <section id="testimonial3" class="testimonial testimonial-3 text-center pt-80 pb-80 bg-dark">
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1">
+                    <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 ">
                         <div id="testimonial-wide" class="carousel carousel-dots pr-30 pl-30" data-slide="1"
                             data-slide-rs="1" data-autoplay="true" data-nav="false" data-dots="true" data-space="0"
                             data-loop="true" data-speed="800">
@@ -418,8 +373,8 @@
                                     <i class="fa fa-star"></i>
                                 </div>
                                 <!-- .testimonial-rating end -->
-                                <div class="testimonial--body">
-                                    <p>“ Wieder einmal fühle ich mich gezwungen, über unser wunderbares kulinarisches Erlebnis bei Döner by Harun zu schreiben. Mein Freund und ich haben oft wunderbar gegessen. Wir haben entweder Mahlzeiten oder Gespräche über unsere Mahlzeiten in Ihrem Restaurant mit Freunden und Familie geteilt ”</p>
+                                <div class="testimonial--body ">
+                                    <p class="text-white">“ Wieder einmal fühle ich mich gezwungen, über unser wunderbares kulinarisches Erlebnis bei Döner by Harun zu schreiben. Mein Freund und ich haben oft wunderbar gegessen. Wir haben entweder Mahlzeiten oder Gespräche über unsere Mahlzeiten in Ihrem Restaurant mit Freunden und Familie geteilt ”</p>
                                 </div>
                                 <!-- .testimonial-body end -->
                                 <div class="testimonial--meta">
@@ -445,7 +400,7 @@
                                 </div>
                                 <!-- .testimonial-rating end -->
                                 <div class="testimonial--body">
-                                    <p>“ Once again, I feel compelled to write about our wonderful dining experience at
+                                    <p class="text-white">“ Once again, I feel compelled to write about our wonderful dining experience at
                                         Granny. My wife and I have often had wonderful meals. We have shared either
                                         meals or conversations about our meals at your restaurant with friends and
                                         family ”</p>

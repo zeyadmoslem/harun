@@ -1,4 +1,4 @@
-<header id="navbar-spy" class="header header-4 header-2 header-topbar header-light header-fixed">
+<header id="navbar-spy" class="header header-4 header-2 header-topbar header-light header-fixed" >
             <div id="top-bar" class="top-bar topbar-light">
                 <div class="container">
                     <div class="bottom-bar-border">
@@ -9,7 +9,7 @@
                                         <i class="fa fa-cutlery"></i><span>Döner By Harun</span>
                                     </li>
                                     <li>
-                                        <i class="fa fa-map-marker"></i><span>Banhofstraße 192, 61184 Groß karben</span>
+                                        <i class="fa fa-map-marker"></i><span>Banhofstraße 192, 61184 Karben</span>
                                     </li>
                                     <li>
                                         <i class="fa fa-phone"></i> <span>+ 012346567</span>
@@ -28,7 +28,7 @@
                     </div>
                 </div>
             </div>
-            <nav id="primary-menu" class="navbar navbar--dark navbar-fixed-top">
+            <nav id="primary-menu" class="navbar navbar--dark navbar-fixed-top ">
                 <div class="container">
                     <div class="">
                         <!-- Brand and toggle get grouped for better mobile display -->

@@ -258,7 +258,7 @@ h4,
 h5,
 h6 {
 	color: #222222;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 700;
 	margin: 0 0 28px;
 	line-height: 1;
@@ -1145,7 +1145,7 @@ blockquot {
 }
 
 .quote-author {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	display: block;
 	font-size: 13px;
 	font-style: normal;
@@ -2181,7 +2181,7 @@ ul.dot-list li i {
 }
 
 .tabs .nav-tabs > li > a {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	color: #333333;
 	font-size: 22px;
 	font-weight: 400;
@@ -2236,7 +2236,7 @@ ul.dot-list li i {
 
 .tabs .tab--heading {
 	font-size: 40px;
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 	color: #222222;
 	font-weight: 400;
 	line-height: 40px;
@@ -2326,7 +2326,7 @@ ul.dot-list li i {
 }
 
 .accordion .panel .panel--heading a {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
 	color: #282828;
 	font-weight: 400;
@@ -2458,7 +2458,7 @@ ul.dot-list li i {
 	font-size: 20px;
 	font-weight: 400;
 	border-color: #333333;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	text-transform: uppercase;
 	padding: 0;
 	width: 51px;
@@ -2994,12 +2994,12 @@ table tbody tr td {
 	font-weight: 400;
 	line-height: 78px;
 	margin-bottom: 0;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 }
 
 .page-title .title--subtitle {
 	color: #c59d5f;
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 35px;
 	font-style: italic;
 	line-height: 1;
@@ -3064,7 +3064,7 @@ table tbody tr td {
 	font-weight: 400;
 	line-height: 1.2;
 	margin-bottom: 0;
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 }
 
 /* Title #3 */
@@ -3107,15 +3107,15 @@ table tbody tr td {
 \*------------------------------------*/
 .heading .heading--subtitle {
 	color: #c59d5f;
-	font-family: 'Great Vibes', cursive;
-	font-size: 35px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 28px;
 	font-style: italic;
 	line-height: 1;
 	margin-bottom: 5px;
 }
 
 .heading .heading--title {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	color: #222222;
 	font-size: 45px;
 	font-weight: 400;
@@ -3560,7 +3560,7 @@ table tbody tr td {
 
 .module--search-box .form-control {
 	color: #f9f9f9;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 35px;
 	font-weight: 400;
 	line-height: 70px;
@@ -3675,7 +3675,7 @@ table tbody tr td {
 }
 
 .cart-box .cart-overview p {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	color: #c59d5f;
 	font-size: 14px;
 	line-height: 20px;
@@ -5939,7 +5939,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 
 .slider .slide--subheadline {
 	color: #f9f9f9;
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 35px;
 	font-weight: 400;
 	line-height: 45px;
@@ -5950,7 +5950,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 
 .slider .slide--headline {
 	color: #ffffff;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 80px;
 	font-weight: 400;
 	line-height: 115px;
@@ -6241,8 +6241,12 @@ a.next-section:hover {
 @media only screen and (min-width: 320px) and (max-width: 767px) {
 
 .slider .slide--headline {
-	font-size: 30px;
+	font-size: 24px;
 	line-height: 1.2;
+	white-space: normal !important;
+    width: 100vw;
+	text-align: center;
+
 }
 
 .slider .slide--subheadline {
@@ -6254,6 +6258,8 @@ a.next-section:hover {
 	font-size: 14px;
 	line-height: 1.5;
 	padding: 0 10px;
+	white-space: normal !important;
+    width: 100vw;
 }
 
 .slider,
@@ -6621,7 +6627,7 @@ a.next-section:hover {
 
 .testimonial .testimonial-panel p {
 	font-size: 23px;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	color: #282828;
 	line-height: 32px;
@@ -6704,7 +6710,7 @@ a.next-section:hover {
 
 .testimonial-5 .testimonial-panel p {
 	font-size: 40px;
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	color: #ffffff;
 	line-height: 39px;
@@ -6735,7 +6741,7 @@ a.next-section:hover {
 
 .portfolio-filter li a {
 	color: #333333;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 22px;
 	font-weight: 400;
 	line-height: 1;
@@ -6874,7 +6880,7 @@ a.next-section:hover {
 }
 
 .feature-panel .feature--content h3 {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 28px;
 	font-weight: 400;
 	line-height: 1;
@@ -6935,14 +6941,14 @@ a.next-section:hover {
 .cta h3 {
 	color: #ffffff;
 	font-size: 45px;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	margin-bottom: 30px;
 }
 
 .cta p {
 	color: #ffffff;
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 40px;
 	font-weight: 500;
 	line-height: 42px;
@@ -6979,7 +6985,7 @@ a.next-section:hover {
     #Counters
 \*------------------------------------*/
 .counter .count-box .counting {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	color: #ffffff;
 	font-size: 70px;
 	font-weight: 400;
@@ -6989,7 +6995,7 @@ a.next-section:hover {
 }
 
 .counter .count-box .count-title {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	color: #f4f4f4;
 	font-size: 20px;
 	font-weight: 400;
@@ -7071,7 +7077,7 @@ a.next-section:hover {
 }
 
 .pricing .pricing--heading p {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	color: #ffffff;
 	font-size: 70px;
 	font-weight: 400;
@@ -7817,7 +7823,7 @@ ul.comments-list ul.comment-children {
 
 .cart-table tbody tr td.cart-product-price,
 .cart-table tbody tr td.cart-product-total {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 15px;
 	font-weight: 400;
 	line-height: 26px;
@@ -8039,7 +8045,7 @@ td.cart-product-quantity {
 
 .shop-filter li a {
 	color: #333333;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 22px;
 	font-weight: 400;
 	line-height: 1;
@@ -8155,7 +8161,7 @@ td.cart-product-quantity {
 }
 
 .product-item .product--content .product--cat {
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 13px;
 	font-style: italic;
 	line-height: 1;
@@ -8188,7 +8194,7 @@ td.cart-product-quantity {
 .product--content .product--title a {
 	color: #333333;
 	font-size: 23px;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	line-height: 1;
 	margin-bottom: 10px;
@@ -8203,7 +8209,7 @@ td.cart-product-quantity {
 	color: #c59d5f;
 	font-size: 20px;
 	font-weight: 400;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	line-height: 1;
 }
 
@@ -8321,7 +8327,7 @@ td.cart-product-quantity {
 
 /* Shop Single */
 .shop-product .product-title h3 {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	color: #222222;
 	font-size: 23px;
 	font-weight: 400;
@@ -8331,7 +8337,7 @@ td.cart-product-quantity {
 }
 
 .shop-product .product-price {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	color: #c59d5f;
 	font-size: 18px;
 	font-weight: 400;
@@ -8407,7 +8413,7 @@ td.cart-product-quantity {
 }
 
 .shop-product .product-quantity .qua {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	color: #333333;
 	font-size: 15px;
 	font-weight: 400;
@@ -9203,7 +9209,7 @@ td.cart-product-quantity {
 
 .widget-recent-products .product .product-title a {
 	color: #222222;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 1;
@@ -9215,7 +9221,7 @@ td.cart-product-quantity {
 }
 
 .widget-recent-products .product .product-desc .product-meta {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	color: #c59d5f;
 	font-size: 14px;
 	font-weight: 400;
@@ -9233,7 +9239,7 @@ td.cart-product-quantity {
 
 .widget-info .info--title {
 	color: #ffffff;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 22px;
 	font-weight: 400;
 	line-height: 1;
@@ -9471,7 +9477,7 @@ footer {
 
 .footer--widget-content h3 {
 	color: #ffffff;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 24px;
 	font-weight: 400;
 	margin-bottom: 25px;
@@ -9511,7 +9517,7 @@ footer {
 }
 
 .footer--reservation h3 {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 28px;
 	font-weight: 400;
 	line-height: 1;
@@ -9787,7 +9793,7 @@ footer .text-right,
 \*------------------------------------*/
 .page-404 h3 {
 	color: #ffffff;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 250px;
 	font-weight: 400;
 	line-height: 1.1;
@@ -9870,7 +9876,7 @@ footer .text-right,
 }
 
 .countdown-amount {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	color: #ffffff;
 	font-size: 70px;
 	font-weight: 400;
@@ -9879,7 +9885,7 @@ footer .text-right,
 }
 
 .countdown-period {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	display: block;
 	color: #f9f9f9;
 	font-size: 20px;
@@ -10146,7 +10152,7 @@ footer .text-right,
 	#Video
 \*------------------------------------*/
 .video-button .heading--title {
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 40px;
 	font-weight: 400;
 	line-height: 1;
@@ -10465,7 +10471,7 @@ footer .text-right,
 	bottom: -2px;
 	height: 10px;
 	border-radius: 0 0 2px 2px;
-	background-color: #ffffff;
+	background-color: #1b1b1bf7;
 	-webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.26);
 	-moz-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.26);
 	-ms-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.26);
@@ -10880,7 +10886,7 @@ footer .text-right,
 
 .number-panel .number--content h6 {
 	color: #c59d5f;
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 13px;
 	font-style: italic;
 	line-height: 1;
@@ -11236,14 +11242,14 @@ footer .text-right,
 
 .landing-hero h6 {
 	color: #f9f9f9;
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 35px;
 	font-weight: 400;
 	margin-bottom: 25px;
 }
 
 .landing-hero h1 {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 65px;
 	font-weight: 500;
 	line-height: 90px;
@@ -11270,7 +11276,7 @@ footer .text-right,
 }
 
 .landing-demos .portfolio-title h4 {
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 	color: #c59d5f;
 	text-align: center;
 	font-size: 30px;
@@ -11519,7 +11525,7 @@ footer .text-right,
 }
 
 .dish-panel .dish--price {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
 	font-weight: 400;
 	line-height: 29px;
@@ -11642,7 +11648,7 @@ footer .text-right,
 }
 
 .modal-body .img-popup .img-popup-overlay .popup--price {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 25px;
 	font-weight: 400;
 	line-height: 1;
@@ -11730,7 +11736,7 @@ footer .text-right,
 }
 
 .specials-2 .dish--price {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
 	line-height: 29px;
@@ -11993,7 +11999,7 @@ section.menu-5 .dishes-bg {
 }
 
 .menu-5 .dish-panel .dish--title {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 24px;
 	font-weight: 400;
 }
@@ -12103,7 +12109,7 @@ section.menu-5 .dishes-bg {
 }
 
 .menu-7 .dish-panel .dish--title {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 24px;
 	font-weight: 400;
 }
@@ -12203,7 +12209,7 @@ section.menu-5 .dishes-bg {
 }
 
 .menu-8 .dish-panel .dish--title {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 24px;
 	font-weight: 400;
 	margin-bottom: 10px;
@@ -12241,7 +12247,7 @@ section.menu-5 .dishes-bg {
 	color: #ffffff;
 	font-size: 45px;
 	font-weight: 400;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	position: relative;
 	margin-bottom: 15px;
 	-webkit-transition: all .3s linear;
@@ -12307,7 +12313,7 @@ section.menu-5 .dishes-bg {
 .banner .banner-panel .banner--content h3 {
 	color: #c59d5f;
 	font-size: 30px;
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	margin-bottom: 15px;
 }
@@ -12326,7 +12332,7 @@ section.menu-5 .dishes-bg {
 	font-size: 20px;
 	font-weight: 400;
 	color: #c59d5f;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
 	text-transform: none;
 	margin-right: 30px;
 }
@@ -12334,7 +12340,7 @@ section.menu-5 .dishes-bg {
 /* Banner #5 */
 .banner-5 .banner--desc {
 	color: #333333;
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 40px;
 	font-weight: 400;
 	line-height: 42px;
@@ -12344,7 +12350,7 @@ section.menu-5 .dishes-bg {
 
 .history-panel h6 {
 	color: #c59d5f;
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-size: 35px;
 	font-weight: 400;
 	line-height: 29px;
@@ -12385,7 +12391,7 @@ section.menu-5 .dishes-bg {
 
 .banner-6 .panel--heading {
 	font-size: 40px;
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Roboto', sans-serif;
 	color: #222222;
 	font-weight: 400;
 	line-height: 40px;
@@ -12438,10 +12444,10 @@ section.menu-5 .dishes-bg {
 
 .banner-7 .banner-panel .banner--img .banner--overlay {
 	position: absolute;
-	bottom: 10px;
+	bottom: 5px;
 	color: #ffffff;
-	font-family: 'Great Vibes', cursive;
-	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
 	font-weight: 400;
 	line-height: 29px;
 	width: 100%;
@@ -12733,6 +12739,16 @@ section.menu-5 .dishes-bg {
 	.social-icons{
 		margin-bottom: 20px;
 	}
+
+	.top-sm--30{
+		top: -30px !important;
+	}	
+	.top-sm--40{
+		top: -40px !important;
+	}	
+	.top-sm--50{
+		top: -50px !important;
+	}
 }
 /* 
 green #116f11
@@ -12780,7 +12796,8 @@ red   #db3131
 .navbar.navbar--dark .navbar-nav > li > .menu-item:hover::before,
  .navbar.navbar--dark .navbar-nav > li.active > .menu-item:before,
  .slider .tparrows:hover,
- .contact--info .social-icons a:hover{
+ .contact--info .social-icons a:hover,
+ .spinner > div{
 	background-color: #db3131 !important;
 }
 
@@ -12820,4 +12837,15 @@ ul.number-list li span{
 	display: flex;
     align-items: center;
     justify-content: center;
+}
+
+
+/* Dark theme*/
+
+.bg-dark{
+	background:#1b1b1b !important;
+    background-color: #1b1b1b !important;
+}
+.form-control{
+	color: #fff !important;
 }

@@ -1,5 +1,5 @@
 <!-- footer#1 -->
-<footer id="footer" class="footer footer-1 text-center">
+<footer id="footer" class="footer footer-1 text-center bg-dark">
 
     <div class="footer--widget text--center">
         <div class="container">
@@ -7,7 +7,7 @@
                 <div class="col-xs-12 col-sm-3 col-md-4">
                     <div class="footer--widget-content">
                         <h3>Unsere Adresse</h3>
-                        <p>Banhofstraße 192, 61184 Groß karben<br>Tel:012345678</p>
+                        <p>Banhofstraße 192, 61184 Karben<br>Tel:012345678</p>
                         <a class="link--styled" href="#">Sehe auf Karte</a>
                     </div>
                 </div>

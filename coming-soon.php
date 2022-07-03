@@ -19,7 +19,7 @@
 				<div class="col-xs-12 col-sm-12 col-md-6 col-md-offset-3">
 					<div class="text--center">
 						<p class="text-white">Döner By Harun ist eines der ersten Restaurants in
-                                  Groß karben, das Türkische Grichte und Döner<br>serviert. Das Restaurant wurde mit
+                                  Karben, das Türkische Grichte und Döner<br>serviert. Das Restaurant wurde mit
                                     Blick auf die türkische Küche entworfen.</p>
 					</div><!-- .heading-10 end -->
 				</div><!-- .col-md-8 end -->

@@ -5,7 +5,7 @@ jQuery(document).ready(function() {
         sliderType: "standard",
         jsFileLocation: "../assets/revolution/js/",
         sliderLayout: "auto",
-        delay: 99000,/* sets the Slider's default timeline */
+        delay: 9000,/* sets the Slider's default timeline */
         disableProgressBar: "on",
         spinner: "spinner1",/* PRELOADER OPTION "0" */ 
         /* basic navigation arrows and bullets */
@@ -52,7 +52,7 @@ jQuery(document).ready(function() {
         },
 		responsiveLevels: [1240, 1024, 778, 480],
 		gridwidth:[1240, 1024, 778, 320],
-        gridheight: [700, 768, 600, 620],
+        gridheight: [700, 768, 600, 650],
 
     });
 });
