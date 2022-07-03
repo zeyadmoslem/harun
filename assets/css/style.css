@@ -3145,13 +3145,18 @@ table tbody tr td {
 @media only screen and (min-width: 320px) and (max-width: 991px) {
 
 .heading .heading--title {
-	font-size: 36px;
+	font-size: 28px;
 }
 
 .heading .heading--subtitle {
-	font-size: 29px;
+	font-size: 18px;
 }
-
+.banner .banner-panel .banner--content h4{
+	font-size: 24px;
+}
+.imprint .text-capitalize{
+	font-size: 24px;
+}
 .heading .heading--desc {
 	padding: 0;
 }
